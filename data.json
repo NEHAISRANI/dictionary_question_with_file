@@ -1,0 +1,1 @@
+{"users": [{"lastName": "singla", "details": {"City": "Delhi", "age": 21, "mobileNo": 1234567890}, "firstName": "vidur"}, {"lastName": "verma", "details": {"City": "Chandigarh", "age": 22, "mobileNo": 12345678320}, "firstName": "rishabh"}, {"lastName": "gupta", "details": {"City": "Gurgaon", "age": 25, "mobileNo": 12332567890}, "firstName": "abhishek"}]}

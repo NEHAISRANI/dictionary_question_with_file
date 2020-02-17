@@ -1,0 +1,20 @@
+{"availableCourses":[{"id":14,
+                        "name":"GIT101 - Learning GIT",
+                        "type":"js",
+                        "logo":"https://tcrn.ch/2Kd0xvh",
+                        "shortDescription":"Learning Basics of using GIT",
+                        "sequenceNum":7},
+                        {"id":15,
+                        "name":"Introduction to HTML",
+                        "type":"html","logo":"https://bit.ly/2FufxWZ",
+                        "shortDescription":"Learn how to use HTML to build simple web pages :)",
+                        "sequenceNum":11},
+                        {"id":16,
+                        "name":"Introduction to CSS","type":"html",
+                        "logo":"https://bit.ly/2BfcwWh",
+                        "shortDescription":"Learn how to use CSS to add styles to simple web pages :)",
+                        "sequenceNum":13}
+                        ]}
+
+
+    
